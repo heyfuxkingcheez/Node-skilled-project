@@ -73,7 +73,8 @@
 
 # 📑 ERD link
 
-![image](https://github.com/heyfuxkingcheez/Node-skilled-project/assets/143869354/917d6971-2737-4b77-ae66-50631c8e69b3)
+![image](https://github.com/heyfuxkingcheez/Node-skilled-project/assets/143869354/dc6c7deb-1566-42d1-be43-6b4ef7e0bb63)
+
 
 > [👉 ERD Cloud 링크](https://www.erdcloud.com/p/FSvRMSTyDhFsu3igX)
 
