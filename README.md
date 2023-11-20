@@ -93,6 +93,7 @@
 -   [x] gitignore
 -   [x] prettierrc
 -   [x] nodemon
+-   [x] Joi schema lib
 -   [ ] SWAGGER API 명세서
 
 ## 2. 데이터베이스 연결
